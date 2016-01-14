@@ -1,0 +1,14 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+@import "font-awesome-sprockets";
+@import "font-awesome";
+
+body {
+    background: #fc00ff; 
+    background: -webkit-gradient(linear, 0 0, 100% 0, from(#fc00ff), to(#00dbde));
+    background: -webkit-linear-gradient(to left, #fc00ff, #00dbde);
+    background: -moz-linear-gradient(to left, #fc00ff, #00dbde);
+    background: -o-linear-gradient(to left, #fc00ff, #00dbde);
+    background: linear-gradient(to left, #fc00ff, #00dbde);
+    
+}
